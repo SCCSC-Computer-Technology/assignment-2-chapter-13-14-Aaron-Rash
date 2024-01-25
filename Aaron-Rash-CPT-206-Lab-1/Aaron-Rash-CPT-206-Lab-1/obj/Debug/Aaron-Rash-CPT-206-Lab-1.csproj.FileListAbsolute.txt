@@ -1,0 +1,12 @@
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\obj\Debug\Aaron-Rash-CPT-206-Lab-1.csproj.AssemblyReference.cache
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\obj\Debug\Aaron_Rash_CPT_206_Lab_1.Form1.resources
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\obj\Debug\Aaron_Rash_CPT_206_Lab_1.Properties.Resources.resources
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\obj\Debug\Aaron-Rash-CPT-206-Lab-1.csproj.GenerateResource.cache
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\obj\Debug\Aaron-Rash-CPT-206-Lab-1.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\bin\Debug\ProductDB.mdf
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\bin\Debug\ProductDB_log.ldf
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\bin\Debug\Aaron-Rash-CPT-206-Lab-1.exe.config
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\bin\Debug\Aaron-Rash-CPT-206-Lab-1.exe
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\bin\Debug\Aaron-Rash-CPT-206-Lab-1.pdb
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\obj\Debug\Aaron-Rash-CPT-206-Lab-1.exe
+C:\Users\aaron\Downloads\Scc\Code\Aaron-Rash-CPT-206-Lab-1\Aaron-Rash-CPT-206-Lab-1\obj\Debug\Aaron-Rash-CPT-206-Lab-1.pdb
