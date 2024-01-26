@@ -1,0 +1,15 @@
+The interface is neatly organized, though I feel that the side panel listing the product descriptions may be redundant.
+
+Another issue I had with the interface is that it wasn't readily apparent whether the 'less than' and 'more than' buttons 
+were for the number of items in stock or for the price. They should have more labeling added.
+
+Using double equal signs for the product number and description may not be good form. Especially with the description, 
+I initially thought it was broken when testing it before viewing the code. Using 'contains' will allow for partial entries 
+to be searched.
+
+I am somewhat surprised to learn, testing again, that double equals does not require matching case.
+
+The sort by price and sort by units buttons are a nice touch, but having a way to sort by product number again would also 
+be a nice touch.
+
+Otherwise, good work.
