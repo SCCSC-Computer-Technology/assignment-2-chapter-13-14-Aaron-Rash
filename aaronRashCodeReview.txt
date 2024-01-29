@@ -1,0 +1,42 @@
+Code Compilation and Warnings:
+   - The code appears to be syntactically correct.
+   - There is no mention of compiler warnings.
+
+Readability and Documentation:
+   - The code is relatively readable.
+   - Meaningful variable and method names contribute to code understanding.
+   - The use of comments is helpful for explaining the purpose of different sections.
+   - However, some comments are redundant and may not provide additional information beyond what is clear from the code itself.
+
+Code Improvement:
+   - There is repetitive code in each button click event where the same logic is used to populate both the `productDataGridView` and `ProductListBox`.
+   - Consider creating a method to encapsulate this common logic and reduce redundancy.
+
+Repetitive Code and Dead Code:
+   - Repetitive code can be factored out into a separate method to improve maintainability.
+   - There is no apparent dead code.
+
+Software Defects and Testing;
+   - No specific software defects are evident in the code itself.
+   - In the testing, "Search Product Description" button did not operate correctly. 
+   - No product was displayed when product description was entered. 
+
+Exception Handling:
+   - Good use of exception handling for scenarios where user input is not a valid number.
+   - Consider providing more informative error messages to guide users better.
+
+Appropriateness of Framework and Code Usage:
+   - Using Windows Forms and employing LINQ for data querying is an effective approach.
+
+Differences in Approach:
+   - The author utilized both data grid and list view, demonstrating skill and dedication to the accuracy of the project instructions.
+   - My approach simply used the list box approach. 
+
+Preferred Approach:
+    - This authors methods allow for better clarity when it comes to user comprehesion
+    - Therefore, I think this authors approach is better constructed.
+
+Constructive Feedback:
+    - Consider refactoring the repetitive code into a separate method to improve maintainability.
+    - While comments are generally useful, focus on providing additional insights where the code might not be self-explanatory.
+    - Overall, the code is well-structured, and improvements are suggested for better maintainability and user guidance.
